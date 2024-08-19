@@ -66,7 +66,7 @@ Waterfall vs. Agile Methodologies: Comparison and Scenarios
 Waterfall Methodology
 
 Overview:
-- Sequential Approach**: The Waterfall model is a linear and sequential approach to software development. Each phase must be completed before the next one begins.
+- Sequential Approach: The Waterfall model is a linear and sequential approach to software development. Each phase must be completed before the next one begins.
 - Phases: Typically includes requirements gathering, design, implementation, testing, deployment, and maintenance.
 - Documentation**: Heavy emphasis on documentation at each stage.
 
@@ -89,7 +89,7 @@ Example: Developing a custom-built enterprise resource planning (ERP) system wit
  Agile Methodology
 
 Overview:
-- Iterative and Incremental Approach**: Agile focuses on iterative development, delivering small, functional increments of the software in short cycles (sprints).
+- Iterative and Incremental Approach: Agile focuses on iterative development, delivering small, functional increments of the software in short cycles (sprints).
 - Phases: Includes iterative cycles of planning, development, testing, and review, with continuous feedback from stakeholders.
 - Flexibility: Encourages adaptability and responsiveness to changes.
 
@@ -142,25 +142,25 @@ Integrated Development Environments (IDEs) and Version Control Systems (VCS) are
 Integrated Development Environments (IDEs)
 
 Importance:
-- Centralized Workspace**: IDEs provide a unified platform where developers can write, edit, and debug code, making the development process more efficient.
-- Code Assistance**: Features like syntax highlighting, code completion, and error checking help developers write code more accurately and quickly.
-- Debugging Tools**: Built-in debuggers allow developers to test and troubleshoot their code more effectively by setting breakpoints, inspecting variables, and stepping through code execution.
-- Project Management**: IDEs often include tools for managing project files, dependencies, and build processes, streamlining development workflows.
-- Integration**: Many IDEs integrate with version control systems, build tools, and other development tools, providing a seamless development experience.
+- Centralized Workspace: IDEs provide a unified platform where developers can write, edit, and debug code, making the development process more efficient.
+- Code Assistance: Features like syntax highlighting, code completion, and error checking help developers write code more accurately and quickly.
+- Debugging Tools: Built-in debuggers allow developers to test and troubleshoot their code more effectively by setting breakpoints, inspecting variables, and stepping through code execution.
+- Project Management: IDEs often include tools for managing project files, dependencies, and build processes, streamlining development workflows.
+- Integration: Many IDEs integrate with version control systems, build tools, and other development tools, providing a seamless development experience.
 
 Examples:
-- Visual Studio Code**: A popular, open-source IDE that supports a wide range of programming languages and includes features like debugging, extensions, and integrated terminal.
-- IntelliJ IDEA**: A powerful IDE for Java development with advanced code analysis, refactoring tools, and support for various frameworks and languages.
-- Eclipse**: An extensible IDE primarily used for Java development, but it also supports other languages through plugins, offering features like debugging, project management, and code editing.
+- Visual Studio Code: A popular, open-source IDE that supports a wide range of programming languages and includes features like debugging, extensions, and integrated terminal.
+- IntelliJ IDEA: A powerful IDE for Java development with advanced code analysis, refactoring tools, and support for various frameworks and languages.
+- Eclipse: An extensible IDE primarily used for Java development, but it also supports other languages through plugins, offering features like debugging, project management, and code editing.
 
 Version Control Systems (VCS)
 
 Importance:
-- Code History and Tracking**: VCS allows developers to track changes to the codebase over time, making it easier to understand the evolution of the project and revert to previous versions if needed.
-- Collaboration**: VCS facilitates collaboration by allowing multiple developers to work on the same project simultaneously, managing code conflicts, and merging changes seamlessly.
-- Branching and Merging**: Developers can create branches to work on new features or bug fixes independently, and then merge those changes back into the main codebase, allowing for parallel development and experimentation.
-- Backup and Recovery**: VCS provides a backup of the codebase, protecting against data loss and enabling recovery of code from different points in time.
-- Code Review**: Many VCS tools include features for code review, enabling teams to review and discuss changes before they are integrated into the main codebase.
+- Code History and Tracking: VCS allows developers to track changes to the codebase over time, making it easier to understand the evolution of the project and revert to previous versions if needed.
+- Collaboration: VCS facilitates collaboration by allowing multiple developers to work on the same project simultaneously, managing code conflicts, and merging changes seamlessly.
+- Branching and Merging: Developers can create branches to work on new features or bug fixes independently, and then merge those changes back into the main codebase, allowing for parallel development and experimentation.
+- Backup and Recovery: VCS provides a backup of the codebase, protecting against data loss and enabling recovery of code from different points in time.
+- Code Review: Many VCS tools include features for code review, enabling teams to review and discuss changes before they are integrated into the main codebase.
 
 Examples:
 - Git: A distributed version control system widely used in software development for managing code changes, branching, and collaboration. Platforms like GitHub, GitLab, and Bitbucket provide hosting and collaboration features for Git repositories.
@@ -180,9 +180,9 @@ Software engineers often encounter various challenges throughout the development
 Challenge: Scope creep occurs when project requirements continuously change or expand beyond the initial scope, leading to delays, increased costs, and potential project failure.
 
 Strategies to Overcome:
-- Define Clear Requirements**: Work with stakeholders to establish detailed and agreed-upon requirements at the outset.
-- Implement Change Control**: Use a formal change control process to assess and manage changes to project scope.
-- Communicate Regularly**: Maintain ongoing communication with stakeholders to manage expectations and address any potential changes early.
+- Define Clear Requirements: Work with stakeholders to establish detailed and agreed-upon requirements at the outset.
+- Implement Change Control: Use a formal change control process to assess and manage changes to project scope.
+- Communicate Regularly: Maintain ongoing communication with stakeholders to manage expectations and address any potential changes early.
 
 2. Technical Debt
 
